@@ -1,7 +1,7 @@
-#Typescript  ES6
-##Knowledge round-up
-###Typescript
-####1. What is TypeScript and Why do we need it?
+# Typescript  ES6
+## Knowledge round-up
+### Typescript
+#### 1. What is TypeScript and Why do we need it?
 - TypeScript is a superset of JavaScript which primarily provides optional static typing, classes and interfaces. One of the big benefits is to enable IDEs to provide a richer environment for spotting common errors as you type the code.TypeScript is a free and open-source programming language developed and maintained by Microsoft.
 - Why do we need it? When us using TypeScript you can use the latest ES6 (and some ES2016/ES2017) features but not worry about browser or node version support, since TypeScript compiles to “standard JavaScript”. Even though today’s browsers support much of ES6, TypeScript levels the playing field, making sure the rendered JavaScript is 100% compatible across all platforms.
 ####2. How can you get TypeScript and install it?
